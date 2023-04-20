@@ -1,0 +1,1 @@
+execute if score #gameloop gameloop matches 1 run function hardpoint:loop
